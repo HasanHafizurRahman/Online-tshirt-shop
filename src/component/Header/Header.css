@@ -1,0 +1,14 @@
+nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    background: rgb(24, 24, 129);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    border-top-right-radius: 15px;
+}
+nav a:hover{
+    font-weight: bolder;
+    background-color: rgb(151, 114, 20);
+}

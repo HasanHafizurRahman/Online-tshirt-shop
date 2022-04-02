@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "623853b2614ad5aba311fdd1",
+      "index": 0,
+      "price": 14,
+      "picture": "https://cdn.shopify.com/s/files/1/0054/2454/5859/products/QR_F_Dark_Gray.png?v=1548310707",
+      "name": "Bitcoin Wallet",
+      "gender": "Male"
+    },
+    {
+      "_id": "623853b2578e9e6ad1ae0dd5",
+      "index": 1,
+      "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
+      "name": "Keep Coding",
+      "price": 27,
+      "gender": "Keep Coding"
+    },
+    {
+      "_id": "623853b21fb149d2ee7b76c7",
+      "index": 2,
+      "picture": "http://cdn.shopify.com/s/files/1/0802/9141/products/DynamicImageHandler_64fce4e3-7696-45e0-820b-21fe02394ce6_grande.png?v=1467372276",
+      "name": "Coding Disorder",
+      "price": 24,
+      "gender": "male"
+    },
+    {
+      "_id": "623853b2e91c8de578c9245e",
+      "index": 3,
+      "picture": "https://res.cloudinary.com/teepublic/image/private/s--J6ItCAj4--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_-47/g_north_west,u_upload:v1462829024:production:blanks:a59x1cgomgu5lprfjlmi,x_-395,y_-372/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1516826478/production/designs/2305884_0.jpg",
+      "name": "Boolean",
+      "price": 14,
+      "gender": "Mix Yellow"
+    },
+    {
+      "_id": "623853b2239582e48409ccc6",
+      "index": 4,
+      "price": 34,
+      "picture": "https://ae01.alicdn.com/kf/HTB1jKeQmOCYBuNkHFCcq6AHtVXaV/Summer-Fashion-Men-T-Shirt-While-Alive-Eat-Sleep-Code-Developer-Funny-Code-Coding-Unisex-T.jpg",
+      "name": "Coding LifeStyle",
+      "gender": "male"
+    },
+    {
+      "_id": "623853b2cdda0d5bc294f791",
+      "index": 5,
+      "picture": "https://www.90sclothes.com/wp-content/uploads/2020/02/Vintage-Coding-For-Programmer-T-Shirt.jpg",
+      "name": "Understanding Code",
+      "price": 141,
+      "gender": "male"
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d44a",
+      "index": 6,
+      "price": 41,
+      "picture": "https://hacker-gadgets.com/wp-content/uploads/2019/11/5772-d02854.jpg",
+      "name": "Coding",
+      "gender": "female"
+    }
+  ]

@@ -1,0 +1,23 @@
+.t-shirt{
+    height: 400px;
+    margin-top: 20px;
+    border: 1px dashed grey;
+}
+.t-shirt img{
+    height: 250px;
+}
+.btn-cart{
+    background: rgb(24, 24, 129);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+.btn-cart:hover{
+    background: orange;
+    color: darkblue;
+    font-weight: bolder;
+}
