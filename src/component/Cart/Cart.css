@@ -1,9 +1,15 @@
 .btn-dlt{
     padding:  3px;
     margin-left: 7px;
-    background: rgb(29, 29, 41);
-    color: white;
+    background: rgb(20, 20, 112);
+    color: yellow;
     font-weight: bolder;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
+}
+.btn-dlt:hover{
+    
+    background: rgb(29, 29, 41);
+    color: white;
 }
